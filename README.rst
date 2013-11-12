@@ -25,7 +25,7 @@ and you should see the Graphite UI. By navigating in the tree on the left, you
 can start to build your own graphs:
 
 If you want to save configured graphs, you can login into graphite with the
-username “graphite” and the password “admin” (you change that from the
+username “admin” and the password “graphite” (you change that from the
 graphite/mkadmin.py script).
 
 .. _collectd: https://www.collectd.org/
